@@ -1,0 +1,9 @@
+h1,h2,h3,h4,h5,h6 {
+  font-family: Figtree,var(--pico-font-family);
+}
+
+.alert {
+  margin-top: var(--pico-block-spacing-vertical);
+  color: #962d7c;
+  background-color:rgba(150, 45, 124, .125);
+}
